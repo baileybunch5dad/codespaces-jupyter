@@ -8,3 +8,5 @@ S(\omega)
 \end{align}
 $$
 
+or does it
+
